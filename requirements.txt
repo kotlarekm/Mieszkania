@@ -1,0 +1,12 @@
+pyarrow
+pandas
+numpy
+geopandas
+geopy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+folium
+tabulate

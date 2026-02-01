@@ -173,7 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#folder with data
-Data/
-DataOutput/
-NewData/
+
